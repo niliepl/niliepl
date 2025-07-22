@@ -1,6 +1,6 @@
 ### About Me:  
 - 👋 Hi, I’m @niliepl
-- 👀 I’m interested in cybersecurity, AI , Software Development
+- 👀 I’m interested in cybersecurity, QA, DevOps , Software Development
 - 🌱 I’m currently taking Bachelor in Computer Science
 
 <h4 align="center">CONNECT WITH ME</h4>
