@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 0 15px;">
-      <a href='https://www.linkedin.com/in/lee-pei-lin-3555452bb/'>
+      <a href='https://www.linkedin.com/in/leepeilin323108/'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/>
       </a>
     </td>
